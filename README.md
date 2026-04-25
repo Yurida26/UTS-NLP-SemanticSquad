@@ -37,3 +37,6 @@ Dataset terdiri dari 12.000 data produk yang diseimbangkan (balanced) mencakup 6
 
 ### 📝 Hasil Evaluasi:
 Model terbaik yang dipilih adalah SVM dengan fitur TF-IDF, yang memberikan keseimbangan akurasi terbaik untuk data teks bahasa Indonesia.
+
+**Tampilan Aplikasi:**
+<img width="1920" height="1080" alt="Screenshot (3356)" src="https://github.com/user-attachments/assets/59433df5-d417-4780-896d-a4a600bc5791" />
